@@ -10,7 +10,9 @@ This project is a movie database application that allows users to browse, search
 - [Project Structure](#project-structure)
 - [APIs](#apis)
 - [Contributing](#contributing)
+- [Deploy](#deploy)
 - [ComingSoon](#Some-of-those-Coming-Soon)
+
 
 ## Installation
 Follow these steps to set up the project locally:
@@ -131,6 +133,9 @@ TMDB API: Used for retrieving movie/series data, including trailers and cast inf
 ## Contributing
 This is a team project, and the team members are Yali, Marc and Odai.
 
-
+## Deploy
+This site is hosted on Netlify 🎉
+Click here to visit the website:
+ 👉 https://react-movie25.netlify.app/
 
 ## Coming Soon

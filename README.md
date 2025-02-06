@@ -17,7 +17,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone git@github.com:Marc-Ruizenaar/movie.git
+git clone https://github.com/YaliZhang1/Movie.git
 
 # Navigate to the project directory
 cd your-repo
@@ -129,28 +129,8 @@ This document outlines the structure of the project, including its APIs, compone
 TMDB API: Used for retrieving movie/series data, including trailers and cast information.
 
 ## Contributing
+This is a team project, and the team members are Yali, Marc and Odai.
 
-Marc:
-- Movie useContext – Implement a React useContext for managing the top 20 movies across the app.
-- Genres API – Fetch movie genres from an API.
-- Movie Page – A dedicated page to display detailed information about a specific movie.
-- Genres Page – A page listing movies categorized by genres, fetched by the API.
-- Search Page and Functionality – Implement a search feature to find movies by title.
-- Including the styling of all those pages .
-
-
-Odai:
-- Setting up the SingleMoviePage with all its components and functionality.
-- Setting up the LikedMoviePage with all its components and functionality.
-- Setting Styling functionality to the code like (StarRating, Trailer PopUp, ReviewForm PopUp, Loading Animation, Heder BigButtons est.. )
-- Fixing the slugs functionality and the review, cast, and trailer features.
-- Helped restructure some of the HomePage code.
-- Including the styling of all those pages.
-
-Yali:
-- I did the homepage, I divide the homepage to 7 components, for example: Header, Footer, Devices, Genres,QandA...,
-- Include their css as well.
-- Make sure the page suit for different size of screen, since some components will be used for other pages also, so I did my job first.
 
 
 ## Coming Soon
